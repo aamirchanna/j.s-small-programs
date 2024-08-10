@@ -1,0 +1,20 @@
+@keyframes textcolor {
+    0%{
+        color:indigo ;
+    }
+    20%{
+        color: orange;
+    }
+    40%{
+        color:black ;
+    }
+    60%{
+        color:indianred ;
+    }
+    80%{
+        color: firebrick ;
+    }
+    100%{
+        color:violet ;
+    }
+}
